@@ -1,0 +1,5 @@
+Sandbox_KO = {
+	Sandbox_IPHotfix = "개선된 탄도학 핫픽스",
+	Sandbox_IPHotfix_ShotComp = "저FPS 연사속도 보정",
+	Sandbox_IPHotfix_ShotComp_tooltip = "좀비가 많아 FPS가 50 미만으로 떨어지면 연사 총기(자동·로터리)의 줄어든 발수를 추가 발사로 채워 평소(고FPS) 연사속도를 유지한다. 탄도학(Improved Projectile) 모드가 처리하는 총만 해당. 추가 발은 지구력·무기 내구도를 소모하지 않는다.",
+}

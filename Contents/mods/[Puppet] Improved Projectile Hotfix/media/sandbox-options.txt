@@ -1,0 +1,6 @@
+VERSION = 1,
+
+option IPHotfix.ShotComp = {
+    type = boolean, default = true,
+    page = IPHotfix, translation = IPHotfix_ShotComp,
+}
