@@ -1,6 +1,6 @@
 version=1
 id=
-title=Imporved Projectile Hotfix 
+title=Improved Projectile Hotfix 
 description=°¶ÅºµµÇĞ Åº¾ÃÈû/¿¬»ç¼Óµµ ´À·ÁÁü ÀÌ½´ ÇØ°á
 tags=Build 41
 visibility=unlisted

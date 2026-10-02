@@ -1,6 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
 
-# PZ translation files: on-disk UTF-16 BE + BOM + CRLF (required by the game),
+# PZ Korean translation files: on-disk UTF-16 BE + BOM + CRLF (required by the game),
 # stored internally as UTF-8 so git can produce readable diffs.
-Contents/mods/**/media/lua/shared/Translate/**/*.txt working-tree-encoding=UTF-16 eol=CRLF diff
+# KO only: EN files are plain UTF-8 (Translate/EN/language.txt charset) and must not be re-encoded.
+Contents/mods/**/media/lua/shared/Translate/KO/*.txt working-tree-encoding=UTF-16 eol=CRLF diff

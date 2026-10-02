@@ -1,0 +1,5 @@
+Sandbox_EN = {
+	Sandbox_IPHotfix = "Improved Projectile Hotfix",
+	Sandbox_IPHotfix_ShotComp = "Low FPS fire rate compensation",
+	Sandbox_IPHotfix_ShotComp_tooltip = "When a large horde drops FPS below 50, automatic weapons (full-auto and rotary) fire the rounds they would otherwise lose, keeping their normal high-FPS fire rate. Only applies to guns handled by Improved Projectile. Compensated rounds do not use endurance or weapon condition.",
+}
